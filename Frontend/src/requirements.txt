@@ -1,0 +1,4 @@
+react-router-dom
+axios
+sweetalert2
+react-icons/fa
